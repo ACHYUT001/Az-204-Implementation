@@ -15,7 +15,7 @@ namespace Azure_Table_CRUD
             {
 
                 //1. create connection to azure(via storage account) 2. create a table client 3. use table client to fetch the reference to the table
-                storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=storageaccountproje8a67;AccountKey=ZeMMGXoAUJpRI/7T9m1wijt3L4jOAX8e56KlkZC1H/gm4LBrflD9cPYdFBeIzi/4wk5gjrkkw518GJ3K5cHf0A==;EndpointSuffix=core.windows.net");
+                storageAccount = CloudStorageAccount.Parse("<Storage Account Connection String");
                 tableclient = storageAccount.CreateCloudTableClient();
                 employees = tableclient.GetTableReference("tablecrud");
 
