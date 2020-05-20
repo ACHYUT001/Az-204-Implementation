@@ -1,0 +1,15 @@
+// Create a local CloudBlobContainer object. No network call.
+string containerName = "myblobcontainer";
+CloudBlobContainer blobContainer = blobClient.GetContainerReference(containerName);
+
+// This makes an actual service call to the Azure Storage service. 
+// Unless this call fails, the container will have been created.
+await blobContainer.CreateAsync();
+
+// Create a local object to represent our blob. No network call.
+string blobName = "myphoto";
+CloudBlockBlob blob = blobContainer.GetBlockBlobReference(blobName);
+
+// This transfers data in the file to the blob on the service.
+string filename = "photo.png";
+await blob.UploadFromFileAsync(fileName);
