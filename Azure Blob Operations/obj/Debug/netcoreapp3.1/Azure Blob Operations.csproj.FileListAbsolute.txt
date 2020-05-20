@@ -1,0 +1,21 @@
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Azure Blob Operations.exe
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Azure Blob Operations.deps.json
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Azure Blob Operations.runtimeconfig.json
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Azure Blob Operations.runtimeconfig.dev.json
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Azure Blob Operations.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Azure Blob Operations.pdb
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.csprojAssemblyReference.cache
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.AssemblyInfoInputs.cache
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.AssemblyInfo.cs
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.pdb
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.genruntimeconfig.cache
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.csproj.CopyComplete
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Blob Operations\obj\Debug\netcoreapp3.1\Azure Blob Operations.csproj.CoreCompileInputs.cache
