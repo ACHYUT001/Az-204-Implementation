@@ -1,0 +1,4 @@
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Table CRUD\bin\Debug\netcoreapp3.1\Azure Table CRUD.exe
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Table CRUD\obj\Debug\netcoreapp3.1\Azure Table CRUD.csprojAssemblyReference.cache
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Table CRUD\obj\Debug\netcoreapp3.1\Azure Table CRUD.AssemblyInfoInputs.cache
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\Azure Table CRUD\obj\Debug\netcoreapp3.1\Azure Table CRUD.AssemblyInfo.cs
