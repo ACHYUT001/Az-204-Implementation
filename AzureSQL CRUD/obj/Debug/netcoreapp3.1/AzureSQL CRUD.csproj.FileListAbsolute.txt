@@ -1,0 +1,4 @@
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\AzureSQL CRUD\bin\Debug\netcoreapp3.1\AzureSQL CRUD.exe
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\AzureSQL CRUD\obj\Debug\netcoreapp3.1\AzureSQL CRUD.csprojAssemblyReference.cache
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\AzureSQL CRUD\obj\Debug\netcoreapp3.1\AzureSQL CRUD.AssemblyInfoInputs.cache
+C:\Users\acupadhy\source\repos\ACHYUT001\Az-204-Implementation\AzureSQL CRUD\obj\Debug\netcoreapp3.1\AzureSQL CRUD.AssemblyInfo.cs
